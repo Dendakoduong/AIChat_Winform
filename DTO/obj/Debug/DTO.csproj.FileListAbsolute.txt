@@ -1,0 +1,6 @@
+D:\aichat\gemini\DTO\bin\Debug\DTO.dll
+D:\aichat\gemini\DTO\bin\Debug\DTO.pdb
+D:\aichat\gemini\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\aichat\gemini\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\aichat\gemini\DTO\obj\Debug\DTO.dll
+D:\aichat\gemini\DTO\obj\Debug\DTO.pdb

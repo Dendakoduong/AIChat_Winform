@@ -1,0 +1,45 @@
+{
+  "UserName": "alo",
+  "UserColor": {
+    "R": 0,
+    "G": 0,
+    "B": 255,
+    "A": 255,
+    "IsKnownColor": true,
+    "IsEmpty": false,
+    "IsNamedColor": true,
+    "IsSystemColor": false,
+    "Name": "Blue"
+  },
+  "AiColor": {
+    "R": 255,
+    "G": 0,
+    "B": 0,
+    "A": 255,
+    "IsKnownColor": true,
+    "IsEmpty": false,
+    "IsNamedColor": true,
+    "IsSystemColor": false,
+    "Name": "Red"
+  },
+  "ChatFont": {
+    "FontFamily": {
+      "Name": "Times New Roman"
+    },
+    "Bold": false,
+    "GdiCharSet": 0,
+    "GdiVerticalFont": false,
+    "Italic": false,
+    "Name": "Times New Roman",
+    "OriginalFontName": null,
+    "Strikeout": false,
+    "Underline": false,
+    "Style": 0,
+    "Size": 16.2000008,
+    "SizeInPoints": 16.2000008,
+    "Unit": 3,
+    "Height": 32,
+    "IsSystemFont": false,
+    "SystemFontName": ""
+  }
+}

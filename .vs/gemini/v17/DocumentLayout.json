@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aichat\\gemini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|d:\\aichat\\gemini\\gemini\\openrouterapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|solutionrelative:gemini\\openrouterapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|D:\\aichat\\gemini\\gemini\\groqapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|solutionrelative:gemini\\groqapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|D:\\aichat\\gemini\\gemini\\geminiapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|solutionrelative:gemini\\geminiapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|D:\\aichat\\gemini\\gemini\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|solutionrelative:gemini\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|D:\\aichat\\gemini\\gemini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|solutionrelative:gemini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|D:\\aichat\\gemini\\gemini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|solutionrelative:gemini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E4E137-D007-4CC3-9A50-BC42D0ADF4C7}|DTO\\DTO.csproj|D:\\aichat\\gemini\\dto\\apikeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E4E137-D007-4CC3-9A50-BC42D0ADF4C7}|DTO\\DTO.csproj|solutionrelative:dto\\apikeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|D:\\aichat\\gemini\\gemini\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|solutionrelative:gemini\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|D:\\aichat\\gemini\\gemini\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|solutionrelative:gemini\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|D:\\aichat\\gemini\\gemini\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|solutionrelative:gemini\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E4E137-D007-4CC3-9A50-BC42D0ADF4C7}|DTO\\DTO.csproj|D:\\aichat\\gemini\\dto\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E4E137-D007-4CC3-9A50-BC42D0ADF4C7}|DTO\\DTO.csproj|solutionrelative:dto\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E4E137-D007-4CC3-9A50-BC42D0ADF4C7}|DTO\\DTO.csproj|D:\\aichat\\gemini\\dto\\lunarholiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E4E137-D007-4CC3-9A50-BC42D0ADF4C7}|DTO\\DTO.csproj|solutionrelative:dto\\lunarholiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E4E137-D007-4CC3-9A50-BC42D0ADF4C7}|DTO\\DTO.csproj|D:\\aichat\\gemini\\dto\\gemini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E4E137-D007-4CC3-9A50-BC42D0ADF4C7}|DTO\\DTO.csproj|solutionrelative:dto\\gemini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|D:\\aichat\\gemini\\gemini\\holidayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|solutionrelative:gemini\\holidayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A49F7E-7A43-4289-9F78-6CFA2F7F09C6}|DAL\\DAL.csproj|D:\\aichat\\gemini\\dal\\modeloptionsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A49F7E-7A43-4289-9F78-6CFA2F7F09C6}|DAL\\DAL.csproj|solutionrelative:dal\\modeloptionsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|D:\\aichat\\gemini\\gemini\\settingsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|solutionrelative:gemini\\settingsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|gemini||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|D:\\aichat\\gemini\\gemini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|solutionrelative:gemini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|D:\\aichat\\gemini\\gemini\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|solutionrelative:gemini\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|D:\\aichat\\gemini\\gemini\\about.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C5BB24-B5B9-4DAA-9D28-DDB9C3B565C8}|gemini\\gemini.csproj|solutionrelative:gemini\\about.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenRouterApiClient.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\OpenRouterApiClient.cs",
+              "RelativeDocumentMoniker": "gemini\\OpenRouterApiClient.cs",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\OpenRouterApiClient.cs",
+              "RelativeToolTip": "gemini\\OpenRouterApiClient.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:42:56.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "gemini\\ConfigManager.cs",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\ConfigManager.cs",
+              "RelativeToolTip": "gemini\\ConfigManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:13:18.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LunarHoliday.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\DTO\\LunarHoliday.cs",
+              "RelativeDocumentMoniker": "DTO\\LunarHoliday.cs",
+              "ToolTip": "D:\\aichat\\gemini\\DTO\\LunarHoliday.cs",
+              "RelativeToolTip": "DTO\\LunarHoliday.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:24:52.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "APIKeys.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\DTO\\APIKeys.cs",
+              "RelativeDocumentMoniker": "DTO\\APIKeys.cs",
+              "ToolTip": "D:\\aichat\\gemini\\DTO\\APIKeys.cs",
+              "RelativeToolTip": "DTO\\APIKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:25:03.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeminiApiClient.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\GeminiApiClient.cs",
+              "RelativeDocumentMoniker": "gemini\\GeminiApiClient.cs",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\GeminiApiClient.cs",
+              "RelativeToolTip": "gemini\\GeminiApiClient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:37:02.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroqApiClient.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\GroqApiClient.cs",
+              "RelativeDocumentMoniker": "gemini\\GroqApiClient.cs",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\GroqApiClient.cs",
+              "RelativeToolTip": "gemini\\GroqApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:37:37.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\Form1.cs",
+              "RelativeDocumentMoniker": "gemini\\Form1.cs",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\Form1.cs [Design]",
+              "RelativeToolTip": "gemini\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:00:36.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\Form1.cs",
+              "RelativeDocumentMoniker": "gemini\\Form1.cs",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\Form1.cs",
+              "RelativeToolTip": "gemini\\Form1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwBQBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:55:58.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "gemini\\SettingsForm.cs",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\SettingsForm.cs",
+              "RelativeToolTip": "gemini\\SettingsForm.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAIwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:37:14.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingsForm.cs [Design]",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "gemini\\SettingsForm.cs",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\SettingsForm.cs [Design]",
+              "RelativeToolTip": "gemini\\SettingsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:43:22.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cs [Design]",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\About.cs",
+              "RelativeDocumentMoniker": "gemini\\About.cs",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\About.cs [Design]",
+              "RelativeToolTip": "gemini\\About.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:48:11.606Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Config.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\DTO\\Config.cs",
+              "RelativeDocumentMoniker": "DTO\\Config.cs",
+              "ToolTip": "D:\\aichat\\gemini\\DTO\\Config.cs",
+              "RelativeToolTip": "DTO\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:00:20.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Gemini.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\DTO\\Gemini.cs",
+              "RelativeDocumentMoniker": "DTO\\Gemini.cs",
+              "ToolTip": "D:\\aichat\\gemini\\DTO\\Gemini.cs",
+              "RelativeToolTip": "DTO\\Gemini.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:00:42.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HolidayService.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\HolidayService.cs",
+              "RelativeDocumentMoniker": "gemini\\HolidayService.cs",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\HolidayService.cs",
+              "RelativeToolTip": "gemini\\HolidayService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:38:43.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ModelOptionsProvider.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\DAL\\ModelOptionsProvider.cs",
+              "RelativeDocumentMoniker": "DAL\\ModelOptionsProvider.cs",
+              "ToolTip": "D:\\aichat\\gemini\\DAL\\ModelOptionsProvider.cs",
+              "RelativeToolTip": "DAL\\ModelOptionsProvider.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T03:13:08.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "gemini",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\gemini.csproj",
+              "RelativeDocumentMoniker": "gemini\\gemini.csproj",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\gemini.csproj",
+              "RelativeToolTip": "gemini\\gemini.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T09:14:14.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SettingsForm.Designer.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\SettingsForm.Designer.cs",
+              "RelativeDocumentMoniker": "gemini\\SettingsForm.Designer.cs",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\SettingsForm.Designer.cs",
+              "RelativeToolTip": "gemini\\SettingsForm.Designer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T03:37:52.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\Program.cs",
+              "RelativeDocumentMoniker": "gemini\\Program.cs",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\Program.cs",
+              "RelativeToolTip": "gemini\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:52:07.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "About.Designer.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\About.Designer.cs",
+              "RelativeDocumentMoniker": "gemini\\About.Designer.cs",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\About.Designer.cs",
+              "RelativeToolTip": "gemini\\About.Designer.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:32:19.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "About.cs",
+              "DocumentMoniker": "D:\\aichat\\gemini\\gemini\\About.cs",
+              "RelativeDocumentMoniker": "gemini\\About.cs",
+              "ToolTip": "D:\\aichat\\gemini\\gemini\\About.cs",
+              "RelativeToolTip": "gemini\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:53:20.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

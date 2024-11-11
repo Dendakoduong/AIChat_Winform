@@ -1,0 +1,9 @@
+D:\aichat\gemini\DAL\bin\Debug\DAL.dll
+D:\aichat\gemini\DAL\bin\Debug\DAL.pdb
+D:\aichat\gemini\DAL\bin\Debug\DTO.dll
+D:\aichat\gemini\DAL\bin\Debug\DTO.pdb
+D:\aichat\gemini\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\aichat\gemini\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\aichat\gemini\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\aichat\gemini\DAL\obj\Debug\DAL.dll
+D:\aichat\gemini\DAL\obj\Debug\DAL.pdb
